@@ -1,0 +1,11 @@
+{
+    "name": "root/closest-city",
+    "description": "defines closest office",
+    "authors": [
+        {
+            "name": "vetsinen",
+            "email": "vetsinen@gmail.com"
+        }
+    ],
+    "require": {}
+}
